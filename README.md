@@ -11,18 +11,24 @@ Key Insights:
 Gender Demographics:
 
 Women contribute significantly more to sales than men, accounting for 64% of total sales.
+
+
 Top Performing States:
 
 Maharashtra (2.98M), Karnataka (2.65M), and Uttar Pradesh (2.10M) lead in sales.
 Sales Channels:
 
 Amazon (35%), Myntra (23%), and Flipkart (22%) are the top-performing channels.
+
+
 Age Demographics:
 
 Adults (34.59%) place the most orders, with women leading in all age groups.
 Monthly Sales Trends:
 
 Peak sales occur in June, with consistent performance throughout the year and a dip in December.
+
+
 Order Status:
 
 92% of orders are successfully delivered, showcasing a highly efficient delivery process.
