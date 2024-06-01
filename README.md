@@ -1,11 +1,11 @@
 # FashionFushion-Store-Annual-Excel-Report
 FashionFusion Store 2022 Sales Dashboard Analysis
 Introduction:
-I'm excited to share my first Excel project, which includes an interactive sales dashboard analysis for FashionFusion Store for the annual year 2022 using Excel.
+I'm excited to share my first Excel project, which includes an interactive sales dashboard analysis for FashionFusion Store for the annual year 2023 using Excel.
 
 
 Objective:
-The goal is to create and analyze the sales report of FashionFusion Store for the year 2022. This analysis will provide insights that can help improve and grow sales in 2023.
+The goal is to create and analyze the sales report of FashionFusion Store for the year 2022. This analysis will provide insights that can help improve and grow sales in 2024.
 
 Key Insights:
 Gender Demographics:
