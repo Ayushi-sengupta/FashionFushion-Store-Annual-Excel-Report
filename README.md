@@ -42,5 +42,5 @@ I'm eager to connect with fellow data enthusiasts and professionals to explore h
 Dashboard and Data Files
 You can find the Excel files used for this project in the repository:
 
-- [FashionFusion Store Data Analysis Dashboard](https://github.com/Ayushi-sengupta/FashionFushion-Store-Annual-Excel-Report/blob/main/d1.jpg)
+- [FashionFusion Store Data Analysis Dashboard](d1.jpg)
 
