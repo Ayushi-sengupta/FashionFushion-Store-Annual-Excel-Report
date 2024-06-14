@@ -50,4 +50,4 @@ You can find the Excel files used for this project in the repository:
 
 ![FashionFusion Store Data Analysis Dashboard](https://github.com/Ayushi-sengupta/FashionFushion-Store-Annual-Excel-Report/blob/main/d1.jpg)
 
-![FashionFusion Store Data Analysis Dashboard Video](https://github.com/Ayushi-sengupta/FashionFushion-Store-Annual-Excel-Report/blob/main/VID-20240601-WA0037.mp4)
+![FashionFusion Store Data Analysis Dashboard Video](VID-20240601-WA0037.mp4)
